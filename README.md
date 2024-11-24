@@ -1,2 +1,2 @@
 # Site URL
-https://Sulfuric-Cat.github.io/megalith_guidebook
+https://sulfuric-cat.github.io/megalith_guidebook
