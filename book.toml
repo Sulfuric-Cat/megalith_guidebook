@@ -1,0 +1,6 @@
+[book]
+authors = ["황산고양이"]
+language = "ko"
+multilingual = false
+src = "src"
+title = "메가리스 가이드북"
