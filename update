@@ -1,5 +1,5 @@
-mdbook build && mv -f ./book/* ./doc
-if [ $(C) -n ]; then
+mdbook build && rm -fr ./doc/* && cp -fr ./book/* ./doc
+if [ $(git add .) -n ]; then
   git commit -m "$(date)" && git push
 fi
-rm -fr ./book/*
+# rm -fr ./book/*
