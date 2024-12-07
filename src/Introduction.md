@@ -1,5 +1,7 @@
 테스트용 메가리스 강의록
 
+추후 업데이트 예정
+
 # 이론 PART
 - [Chapter 1: 메가리스란?](./chapter_1/chapter_1_메가리스란.md)
   - [중심부](./chapter_1/chapter_1-1_중심부/chapter_1-1_중심부.md)
