@@ -1,4 +1,4 @@
-mdbook build && rm -fr ./doc/* && cp -fr ./book/* ./doc
+mdbook build && rm -fr ./docs/* && cp -fr ./book/* ./docs
 if [ $(git add .) -n ]; then
   git commit -m "$(date)" && git push
 fi
